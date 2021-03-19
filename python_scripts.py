@@ -1,2 +1,1 @@
-print("how are you today")
-print ("Not good")
+ print("what's up?")
