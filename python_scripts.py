@@ -1,2 +1,2 @@
-print("what's up?")
-print("I am very good")
+print("Haha")
+print("I am happy")
